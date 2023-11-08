@@ -25,4 +25,4 @@ public class Move_all_negative_numbers_to_beginning_and_positive_to_end_with_con
   }
 }
 // Input: -12, 11, -13, -5, 6, -7, 5, -3, -6
-// Output: -12 -13 -5 -7 -3 -6 11 6 5
+// Output: -12, -6, -13, -5, -3, -7, 5, 6, 11
