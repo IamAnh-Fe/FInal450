@@ -1,4 +1,3 @@
-
 public class Minimize_the_maximum_difference_between_the_heights {
   public static int solution1(int[] arr, int k){
     int n = arr.length;
