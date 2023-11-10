@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Rearrange_array_in_alternating_positive_and_negative_items {
+public class Rearrange_Array_Elements_by_Sign {
 public static int[] solution1(int[] nums){
   int[] ans = new int[nums.length];
     List<Integer> pos = new ArrayList<>();
