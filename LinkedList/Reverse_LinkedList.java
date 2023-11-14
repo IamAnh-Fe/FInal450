@@ -31,7 +31,7 @@ public class Reverse_LinkedList {
    }
       // Recursive
     public static Node Recursive(Node head){
-      if (head == null ){
+      if (head == null || head.next == null){
         return head;
       }
       Node newHead = Recursive(head.next);
